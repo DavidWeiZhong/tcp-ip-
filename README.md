@@ -44,4 +44,4 @@ dns，（就是一种对应关系吧，比如196.123.1.1，对应着www.weizhong
 4,网络层，ftp（文件传输协议），dns（域名系统），http协议
 
 
-以上可以参考![](http://www.cnblogs.com/roverliang/p/5176456.html)
+以上可以参考http://www.cnblogs.com/roverliang/p/5176456.html
