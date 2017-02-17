@@ -164,3 +164,5 @@ UDP是面向消息的协议，通信时不需要建立连接，数据的传输�
 #9,FTP协议：
 
 文件传输协议（File Transfer Protocol, FTP）是TCP/IP网络上两台计算机传送文件的协议，FTP是在TCP/IP网络和INTERNET上最早使用的协议之一，它属于网络协议组的应用层。FTP客户机可以给服务器发出命令来下载文件，上载文件，创建或改变服务器上的目录。
+
+参考  http://blog.csdn.net/lanhuzi9999/article/details/32713815
