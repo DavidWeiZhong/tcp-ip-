@@ -213,3 +213,12 @@ TCP/IP网络和INTERNET上最早使用的协议之一，它属于网络协议组
 命令来下载文件，上载文件，创建或改变服务器上的目录。
 
 参考  http://blog.csdn.net/lanhuzi9999/article/details/32713815
+
+#说了一大包好像都没有在Android中具体运用到这些网络协议
+
+#说说自定义协议吧
+
+scoket的自定义协议可以通过 #包头+包体长度+包体
+
+
+具体可以参考http://blog.csdn.net/lincyang/article/details/6109076
